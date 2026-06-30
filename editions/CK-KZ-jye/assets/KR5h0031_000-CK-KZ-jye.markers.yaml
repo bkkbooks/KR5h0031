@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR5h0031/CK-KZ-jye/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR5h0031_CK-KZ-jye_000-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5h0031_CK-KZ-jye_000-bkkkrnewl1}
+  back: []
+hash: sha256:0368283887906ece74f90420e8aaa3b66ce73c435bafb342cddc5ddce272e38d

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5h0031/YP-C/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 書
+  hash: sha256:d48e61f572566a32c300f075b26de1850e603ace2b4368e110d45a118cd922c4
+metadata:
+  title: 皇明恩命世錄
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 03:02:56.734980'
+  source:
+    repository: kanripo
+    path: KR5h0031/KR5h0031_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:d7bd1d2bc5afec3c4f817ff0c217abc67d7f5ccf96048925d86b11540365d20a

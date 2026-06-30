@@ -1,0 +1,157 @@
+canonical_identifier: bkk:krp/KR5h0031/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5h0031/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皇明恩命世錄
+  date: '2015-08-29 03:02:56.734980'
+  source:
+    repository: kanripo
+    path: KR5h0031
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0031_000-CK-KZ-jye.yaml, hash: 'sha256:2e67bf7d2902f6edbc736ebe99e2a3ed4d546e8ca4742ffddc58ed87fb222f08'}
+  - {seq: 1, filename: KR5h0031_001-CK-KZ-jye.yaml, hash: 'sha256:15b0bb4be849a7c7d2c091869438cd2326b658366b428d1ede508bbe8bfcad3c'}
+  - {seq: 2, filename: KR5h0031_002-CK-KZ-jye.yaml, hash: 'sha256:98be70b61eb86fc8fa49cac11040371b6ea66fd1c14cda30e2fddf6c50b6e212'}
+  - {seq: 3, filename: KR5h0031_003-CK-KZ-jye.yaml, hash: 'sha256:f8f3278de5a45943d7bf12ff57b9d371ab3f57ec30530cc36f42eb38efec3ad8'}
+  - {seq: 4, filename: KR5h0031_004-CK-KZ-jye.yaml, hash: 'sha256:0b17ba195900541db818991435a778400a707834804da32949dac8c3286fb370'}
+  - {seq: 5, filename: KR5h0031_005-CK-KZ-jye.yaml, hash: 'sha256:f094bf102fe8b2dbeca3857dfcb6b76796fee1f636e19e8bc40bcfc5faf97eed'}
+  - {seq: 6, filename: KR5h0031_006-CK-KZ-jye.yaml, hash: 'sha256:6e71460fb3336d7e2b6b0dc267b7e3ffff0e922be784f7af539704d1bf4617ed'}
+  - {seq: 7, filename: KR5h0031_007-CK-KZ-jye.yaml, hash: 'sha256:ba84fb31f8b770274954b49555f640bb6c7d9f09c0f8a7351665e251c986df9e'}
+  - {seq: 8, filename: KR5h0031_008-CK-KZ-jye.yaml, hash: 'sha256:375cbd96f09fac9bd64a2a9a94af1de0b9dfb1f8a2a2b2a7d2274dbe6f92fe4d'}
+  - {seq: 9, filename: KR5h0031_009-CK-KZ-jye.yaml, hash: 'sha256:518c2460a55e3edf882d28a72de83a1d2d55051e40130c1cd192b201579373f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0031_000-CK-KZ-jye.markers.yaml, hash: 'sha256:0368283887906ece74f90420e8aaa3b66ce73c435bafb342cddc5ddce272e38d'}
+  - {seq: 1, role: markers, filename: assets/KR5h0031_001-CK-KZ-jye.markers.yaml, hash: 'sha256:2a6968c77ec82e87b01d371a6b64dca7a82cf4b1b1d4da76e2ee8b1b195d42ad'}
+  - {seq: 2, role: markers, filename: assets/KR5h0031_002-CK-KZ-jye.markers.yaml, hash: 'sha256:6205d27e602e43e1a68072310587438f930fad488ba8ea8dadfb9e269c66ca58'}
+  - {seq: 3, role: markers, filename: assets/KR5h0031_003-CK-KZ-jye.markers.yaml, hash: 'sha256:7a170a1855aed33d701ba66e6754d0191a767dc482fea0acb7322b640134b5ed'}
+  - {seq: 4, role: markers, filename: assets/KR5h0031_004-CK-KZ-jye.markers.yaml, hash: 'sha256:491daa1209b237bcd426947636fc3aed2552f4ec9f50a088ce96177aaf0153dc'}
+  - {seq: 5, role: markers, filename: assets/KR5h0031_005-CK-KZ-jye.markers.yaml, hash: 'sha256:8d958c3fa6e652e163fc85506357a16c4e6610e27c6bcd22198650063765f047'}
+  - {seq: 6, role: markers, filename: assets/KR5h0031_006-CK-KZ-jye.markers.yaml, hash: 'sha256:3bfc73928793c4e6a16dfdb30e47a7dee8252312e6516f38e73a666394e6ba03'}
+  - {seq: 7, role: markers, filename: assets/KR5h0031_007-CK-KZ-jye.markers.yaml, hash: 'sha256:0f0a87ad4a4d8db1d6da7a0fb5da4abb50c4650fb1073a11532ed6ce28e3fc45'}
+  - {seq: 8, role: markers, filename: assets/KR5h0031_008-CK-KZ-jye.markers.yaml, hash: 'sha256:50dd3a2637c178d76b654f7204070f0aa88658f9e79ade702d3d58789eeb7c65'}
+  - {seq: 9, role: markers, filename: assets/KR5h0031_009-CK-KZ-jye.markers.yaml, hash: 'sha256:616ffffbf6a74ed093849236a97f941e3569efe63d7597a80237aa20becd4b5d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5h0031_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 757
+  label: 太祖高皇帝賜龍虎山二十代天師賛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0031_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 四十二代天師大真人張正常
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5h0031_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 0
+    - 2342
+  label: 招聘榜文
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5h0031_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 0
+    - 1377
+  label: 四十三代大真人張宇初
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5h0031_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 0
+    - 2211
+  label: 四十四代大真人張宇淸
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5h0031_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 785
+  label: 四十五代大真人張懋丞
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5h0031_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 0
+    - 2090
+  label: 四十六代大真人張元吉
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5h0031_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 0
+    - 1418
+  label: 四十七代大真人張玄慶
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5h0031_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 0
+    - 3811
+  label: 四十八代大真人張彦頨
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5h0031_CK-KZ-jye_009-h2
+    span:
+    - body
+    - 0
+    - 2239
+  label: 四十九代大真人張永緖
+  type: section
+  level: 2
+hash: sha256:13d1aa4ffba460a00f52bfe7a5134cf579e24fa2621e18507e741ef396ac9065
