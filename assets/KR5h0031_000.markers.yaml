@@ -25,6 +25,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl3}
   - {type: line-break, offset: 8, content: '', id: KR5h0031_HFL_000-001a04}
   - {type: indent, offset: 8, content: 　, id: KR5h0031_krp_000-bkkind2}
+  - {type: substitution, offset: 10, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
   - {type: 'kr:newline', offset: 12, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl4}
@@ -48,11 +49,13 @@ markers:
   - {type: variant, offset: 30, length: 755, content: 賜褒天師㫖命普施符水㫖命選精道法師赴闕書授四十二代天師大真人誥改贈三十九代天師大真人號改封仙姑胡氏玄君號加授永掌道教事誥遣代祀嵩山勑御製諭祭文卷之三授四十三代大真人誥特召入朝勑賜勉修節以格神明勑封包氏玄君誥禁私出符籙㫖成祖文皇帝永樂紀年命編進道書勑命齋事有應奬勑命專出符籙㫖命邀請真仙張三丰勑再命尋訪張三丰勑遣行人諭祭文皇太子遣祭文卷之四授四十四代大真人誥命擇好道之士遣用勑頒賜太和圓光圖并榔梅勑命選武當山住持勑命禱于福建靈濟宫瑞應奬勑召勑封孫氏玄君誥命祈謝大齋瑞應奬勑命建薦揚大齋瑞應奬勑宣宗章皇帝宣德紀年推恩申錫嘉號勑加封誥遣太監諭賜祭塟文卷之五授四十五代大真人誥贈孫氏玄君誥英宗睿皇帝正統天順紀年封董氏玄君誥遣禮部郎中工部主事諭賜祭塟文卷之六授四十六代大真人誥贈父真人誥封母高氏玄君誥禁約族屬人等欺害勑頒賜藏經㫖禁諸人私出符籙勑加封高氏太玄君誥再加封高氏太玄君誥景皇帝景泰紀年加封四十六代大真人誥憲宗純皇帝成化紀年申禁假造符籙勑再加封四十六代大真人誥卷之七授四十七代大真人誥封母吴氏玄君誥申禁僞造符籙勑孝宗敬皇帝弘治紀年賜准致仕勑賜褒問書諭禁止僞造符籙敕賜畫軸銀幣敕命賫香儀敇卷之八授四十八代大真人誥武宗毅皇帝正德紀年修建大上清宫勑世宗肅皇帝嘉靖紀年加封大真人誥加封大真人勑命祈禱于太和山勑重建大真人府第勑欽頒神像并賜印記諭重修大上清宫勑准照舊蠲免通户差徭㫖提問沿途違慢官吏㫖命沿途衙門應付勑命徃齊雲山修醮勑聖母升遐示哀手書賀生子手書暫免入朝勑贈朱氏宋氏玄君誥贈李氏吴氏柳氏玄君誥再暫免入朝敕御札賜嗣子名特賜侯爵例祭塟卹典諭遣行人諭祭文卷之九授四十九代大真人誥賜伯爵服㫖賜增應付㫖暫免入朝勑申勑所司照舊優免給與新例勘合應付㫖諭有司官員人等不許欺慢勑封徐氏元君誥禁族屬人等侵害勑遣行人諭祭文皇明恩命世録總目, CK-KZ: ''}
   - {type: variant, offset: 30, length: 755, content: 賜褒天師㫖命普施符水㫖命選精道法師赴闕書授四十二代天師大真人誥改贈三十九代天師大真人號改封仙姑胡氏玄君號加授永掌道教事誥遣代祀嵩山勑御製諭祭文卷之三授四十三代大真人誥特召入朝勑賜勉修節以格神明勑封包氏玄君誥禁私出符籙㫖成祖文皇帝永樂紀年命編進道書勑命齋事有應奬勑命專出符籙㫖命邀請真仙張三丰勑再命尋訪張三丰勑遣行人諭祭文皇太子遣祭文卷之四授四十四代大真人誥命擇好道之士遣用勑頒賜太和圓光圖并榔梅勑命選武當山住持勑命禱于福建靈濟宫瑞應奬勑召勑封孫氏玄君誥命祈謝大齋瑞應奬勑命建薦揚大齋瑞應奬勑宣宗章皇帝宣德紀年推恩申錫嘉號勑加封誥遣太監諭賜祭塟文卷之五授四十五代大真人誥贈孫氏玄君誥英宗睿皇帝正統天順紀年封董氏玄君誥遣禮部郎中工部主事諭賜祭塟文卷之六授四十六代大真人誥贈父真人誥封母高氏玄君誥禁約族屬人等欺害勑頒賜藏經㫖禁諸人私出符籙勑加封高氏太玄君誥再加封高氏太玄君誥景皇帝景泰紀年加封四十六代大真人誥憲宗純皇帝成化紀年申禁假造符籙勑再加封四十六代大真人誥卷之七授四十七代大真人誥封母吴氏玄君誥申禁僞造符籙勑孝宗敬皇帝弘治紀年賜准致仕勑賜褒問書諭禁止僞造符籙敕賜畫軸銀幣敕命賫香儀敇卷之八授四十八代大真人誥武宗毅皇帝正德紀年修建大上清宫勑世宗肅皇帝嘉靖紀年加封大真人誥加封大真人勑命祈禱于太和山勑重建大真人府第勑欽頒神像并賜印記諭重修大上清宫勑准照舊蠲免通户差徭㫖提問沿途違慢官吏㫖命沿途衙門應付勑命徃齊雲山修醮勑聖母升遐示哀手書賀生子手書暫免入朝勑贈朱氏宋氏玄君誥贈李氏吴氏柳氏玄君誥再暫免入朝敕御札賜嗣子名特賜侯爵例祭塟卹典諭遣行人諭祭文卷之九授四十九代大真人誥賜伯爵服㫖賜增應付㫖暫免入朝勑申勑所司照舊優免給與新例勘合應付㫖諭有司官員人等不許欺慢勑封徐氏元君誥禁族屬人等侵害勑遣行人諭祭文皇明恩命世録總目, CK-KZ-jye: ''}
   - {type: variant, offset: 30, length: 755, content: 賜褒天師㫖命普施符水㫖命選精道法師赴闕書授四十二代天師大真人誥改贈三十九代天師大真人號改封仙姑胡氏玄君號加授永掌道教事誥遣代祀嵩山勑御製諭祭文卷之三授四十三代大真人誥特召入朝勑賜勉修節以格神明勑封包氏玄君誥禁私出符籙㫖成祖文皇帝永樂紀年命編進道書勑命齋事有應奬勑命專出符籙㫖命邀請真仙張三丰勑再命尋訪張三丰勑遣行人諭祭文皇太子遣祭文卷之四授四十四代大真人誥命擇好道之士遣用勑頒賜太和圓光圖并榔梅勑命選武當山住持勑命禱于福建靈濟宫瑞應奬勑召勑封孫氏玄君誥命祈謝大齋瑞應奬勑命建薦揚大齋瑞應奬勑宣宗章皇帝宣德紀年推恩申錫嘉號勑加封誥遣太監諭賜祭塟文卷之五授四十五代大真人誥贈孫氏玄君誥英宗睿皇帝正統天順紀年封董氏玄君誥遣禮部郎中工部主事諭賜祭塟文卷之六授四十六代大真人誥贈父真人誥封母高氏玄君誥禁約族屬人等欺害勑頒賜藏經㫖禁諸人私出符籙勑加封高氏太玄君誥再加封高氏太玄君誥景皇帝景泰紀年加封四十六代大真人誥憲宗純皇帝成化紀年申禁假造符籙勑再加封四十六代大真人誥卷之七授四十七代大真人誥封母吴氏玄君誥申禁僞造符籙勑孝宗敬皇帝弘治紀年賜准致仕勑賜褒問書諭禁止僞造符籙敕賜畫軸銀幣敕命賫香儀敇卷之八授四十八代大真人誥武宗毅皇帝正德紀年修建大上清宫勑世宗肅皇帝嘉靖紀年加封大真人誥加封大真人勑命祈禱于太和山勑重建大真人府第勑欽頒神像并賜印記諭重修大上清宫勑准照舊蠲免通户差徭㫖提問沿途違慢官吏㫖命沿途衙門應付勑命徃齊雲山修醮勑聖母升遐示哀手書賀生子手書暫免入朝勑贈朱氏宋氏玄君誥贈李氏吴氏柳氏玄君誥再暫免入朝敕御札賜嗣子名特賜侯爵例祭塟卹典諭遣行人諭祭文卷之九授四十九代大真人誥賜伯爵服㫖賜增應付㫖暫免入朝勑申勑所司照舊優免給與新例勘合應付㫖諭有司官員人等不許欺慢勑封徐氏元君誥禁族屬人等侵害勑遣行人諭祭文皇明恩命世録總目, YP-C: ''}
+  - {type: substitution, offset: 34, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 35, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl8}
   - {type: line-break, offset: 35, content: '', id: KR5h0031_HFL_000-001a09}
   - {type: indent, offset: 35, content: 　, id: KR5h0031_krp_000-bkkind7}
+  - {type: substitution, offset: 40, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 41, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl9}
@@ -127,6 +130,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl23}
   - {type: line-break, offset: 133, content: '', id: KR5h0031_HFL_000-002a02}
   - {type: indent, offset: 133, content: 　, id: KR5h0031_krp_000-bkkind20}
+  - {type: substitution, offset: 138, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 139, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl24}
@@ -147,6 +151,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl27}
   - {type: line-break, offset: 161, content: '', id: KR5h0031_HFL_000-002a06}
   - {type: indent, offset: 161, content: 　, id: KR5h0031_krp_000-bkkind24}
+  - {type: substitution, offset: 166, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 167, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl28}
@@ -246,6 +251,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl47}
   - {type: line-break, offset: 294, content: '', id: KR5h0031_HFL_000-003a04}
   - {type: indent, offset: 294, content: 　, id: KR5h0031_krp_000-bkkind42}
+  - {type: substitution, offset: 300, original: 塟, replacement: 葬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17429}}
   - {type: 'kr:newline', offset: 302, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl48}
@@ -277,6 +283,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl53}
   - {type: line-break, offset: 337, content: '', id: KR5h0031_HFL_000-003a10}
   - {type: indent, offset: 337, content: 　, id: KR5h0031_krp_000-bkkind49}
+  - {type: substitution, offset: 349, original: 塟, replacement: 葬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17429}}
   - {type: 'kr:newline', offset: 351, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl54}
@@ -311,6 +318,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl60}
   - {type: line-break, offset: 384, content: '', id: KR5h0031_HFL_000-003b06}
   - {type: indent, offset: 384, content: 　, id: KR5h0031_krp_000-bkkind55}
+  - {type: substitution, offset: 388, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 389, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl61}
@@ -371,11 +379,13 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl72}
   - {type: line-break, offset: 470, content: '', id: KR5h0031_HFL_000-004a07}
   - {type: indent, offset: 470, content: 　, id: KR5h0031_krp_000-bkkind66}
+  - {type: substitution, offset: 472, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
   - {type: 'kr:newline', offset: 477, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl73}
   - {type: line-break, offset: 477, content: '', id: KR5h0031_HFL_000-004a08}
   - {type: indent, offset: 477, content: 　, id: KR5h0031_krp_000-bkkind67}
+  - {type: substitution, offset: 479, original: 僞, replacement: 偽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20640}}
   - {type: 'kr:newline', offset: 484, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl74}
@@ -386,6 +396,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl75}
   - {type: line-break, offset: 493, content: '', id: KR5h0031_HFL_000-004a10}
   - {type: indent, offset: 493, content: 　, id: KR5h0031_krp_000-bkkind69}
+  - {type: substitution, offset: 494, original: 准, replacement: 準, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17193}}
   - {type: 'kr:newline', offset: 498, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl76}
@@ -400,6 +411,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl78}
   - {type: line-break, offset: 502, content: '', id: KR5h0031_HFL_000-004b02}
   - {type: indent, offset: 502, content: 　, id: KR5h0031_krp_000-bkkind71}
+  - {type: substitution, offset: 505, original: 僞, replacement: 偽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20640}}
   - {type: 'kr:newline', offset: 510, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl79}
@@ -475,11 +487,14 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl93}
   - {type: line-break, offset: 602, content: '', id: KR5h0031_HFL_000-005a06}
   - {type: indent, offset: 602, content: 　, id: KR5h0031_krp_000-bkkind85}
+  - {type: substitution, offset: 602, original: 准, replacement: 準, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17193}}
+  - {type: substitution, offset: 611, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 612, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl94}
   - {type: line-break, offset: 612, content: '', id: KR5h0031_HFL_000-005a07}
   - {type: indent, offset: 612, content: 　, id: KR5h0031_krp_000-bkkind86}
+  - {type: substitution, offset: 620, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 621, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl95}
@@ -490,6 +505,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl96}
   - {type: line-break, offset: 629, content: '', id: KR5h0031_HFL_000-005a09}
   - {type: indent, offset: 629, content: 　, id: KR5h0031_krp_000-bkkind88}
+  - {type: substitution, offset: 630, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
   - {type: 'kr:newline', offset: 637, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl97}
@@ -519,6 +535,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl102}
   - {type: line-break, offset: 663, content: '', id: KR5h0031_HFL_000-005b04}
   - {type: indent, offset: 663, content: 　, id: KR5h0031_krp_000-bkkind93}
+  - {type: substitution, offset: 666, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
   - {type: 'kr:newline', offset: 673, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl103}
@@ -534,6 +551,8 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl105}
   - {type: line-break, offset: 685, content: '', id: KR5h0031_HFL_000-005b07}
   - {type: indent, offset: 685, content: 　, id: KR5h0031_krp_000-bkkind96}
+  - {type: substitution, offset: 691, original: 塟, replacement: 葬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17429}}
+  - {type: substitution, offset: 692, original: 卹, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17021}}
   - {type: 'kr:newline', offset: 695, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl106}
@@ -559,11 +578,13 @@ markers:
   - {type: line-break, offset: 713, content: '', id: KR5h0031_HFL_000-006a01}
   - {type: indent, offset: 713, content: 　, id: KR5h0031_krp_000-bkkind100}
   - {type: page-break, offset: 713, content: '', id: KR5h0031_SJB_000-340786a, image: sjb/34/340786a.png}
+  - {type: substitution, offset: 717, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 718, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl111}
   - {type: line-break, offset: 718, content: '', id: KR5h0031_HFL_000-006a02}
   - {type: indent, offset: 718, content: 　, id: KR5h0031_krp_000-bkkind101}
+  - {type: substitution, offset: 722, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 723, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl112}
@@ -579,6 +600,7 @@ markers:
       ', id: KR5h0031_krp_000-bkkkrnewl114}
   - {type: line-break, offset: 744, content: '', id: KR5h0031_HFL_000-006a05}
   - {type: indent, offset: 744, content: 　, id: KR5h0031_krp_000-bkkind104}
+  - {type: substitution, offset: 744, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 745, content: '
 
       ', id: KR5h0031_krp_000-bkkkrnewl115}
@@ -647,4 +669,4 @@ markers:
 
       ', id: KR5h0031_krp_000-bkkkrnewl133}
   back: []
-hash: sha256:57763b2f5a8a2e57b6105e1debfc8b5c3c5cd46d3105fc33f53f8ce69518e3c0
+hash: sha256:8f49eb78e43dd474b738d3cc0bb18983f11024964a4207dc52e6b2086f479db7
